@@ -33,8 +33,7 @@
 ![APIs](https://img.shields.io/badge/APIs-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ### 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Damandeep1313&show_icons=true&theme=radical&count_private=true)
-
+[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDamandeep1313&label=Visitors&countColor=%2300b4ff&style=plastic&animation=growth)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FDamandeep1313)
 
 ### 🔝 Top Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Damandeep1313&layout=compact&theme=radical)
