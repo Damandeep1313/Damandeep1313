@@ -5,7 +5,7 @@
 
 
 ### 🌐 Socials:
-[![LinkedIn](www.linkedin.com/in/damandeep-singh-5153a41b9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damandeep-singh-5153a41b9/)
 
 ### 💻 Tech Stack
 
@@ -35,14 +35,13 @@
 ### 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Damandeep1313&show_icons=true&theme=radical&count_private=true)
 
+
+### 🔝 Top Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Damandeep1313&layout=compact&theme=radical)
 
 
-### 🔝 Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Damandeep1313&layout=compact)
 
 ### 👀 Visitor Count:
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Damandeep1313.Damandeep1313)
-
+![Visitors](https://img.shields.io/badge/dynamic/json?label=Visitors&query=value&url=https://api.countapi.xyz/hit/Damandeep1313/Damandeep1313&color=blue)
 ### 🏆 GitHub Trophies:
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Damandeep1313&theme=onedark)
