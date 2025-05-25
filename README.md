@@ -44,4 +44,4 @@
 ![Visitors](https://komarev.com/ghpvc/?username=Damandeep1313&label=PROFILE+VIEWS&color=00b4ff&style=flat-square)
 
 ### 🏆 GitHub Trophies:
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Damandeep1313&theme=onedark&margin-w=10&row=2&column=3" alt="GitHub Trophies" /> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=Damandeep1313&theme=onedark&margin-w=10&row=2&column=3" alt="GitHub Trophies" /> </p>
