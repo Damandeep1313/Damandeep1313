@@ -43,13 +43,13 @@
 ### 👀 Visitor Count:
 ![Visitors](https://komarev.com/ghpvc/?username=Damandeep1313&label=PROFILE+VIEWS&color=00b4ff&style=flat-square)
 
-### 🏆 GitHub Trophies:
-<a href="https://github.com/Damandeep1313">
-  <img src="https://github-profile-trophy.vercel.app/?username=Damandeep1313&theme=onedark" alt="Damandeep1313's trophies" style="max-width: 100%;" onmouseover="this.src='https://github-profile-trophy.vercel.app/?username=Damandeep1313&theme=gruvbox'" onmouseout="this.src='https://github-profile-trophy.vercel.app/?username=Damandeep1313&theme=onedark'">
-</a>
+
 
 ## GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Damandeep1313&show_icons=true&theme=onedark)
+
+
+### 🏆 GitHub Trophies:
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Damandeep1313&theme=onedark&margin-w=15&margin-h=15)
