@@ -42,6 +42,7 @@
 
 
 ### 👀 Visitor Count:
-![HitCount](https://hits.sh/github.com/Damandeep1313.svg?style=flat&label=Visitors&color=00b4ff)
+![Visitors](https://komarev.com/ghpvc/?username=Damandeep1313&label=PROFILE+VIEWS&color=00b4ff&style=flat-square)
+
 ### 🏆 GitHub Trophies:
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Damandeep1313&theme=onedark)
