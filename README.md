@@ -40,9 +40,6 @@
 
 
 
-### 👀 Visitor Count:
-![Visitors](https://komarev.com/ghpvc/?username=Damandeep1313&label=PROFILE+VIEWS&color=00b4ff&style=flat-square)
-
 
 
 ## GitHub Stats
