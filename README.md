@@ -1,7 +1,7 @@
 ### 💫 About Me:
 🔭 I’m currently working as a Backend Developer at SchoolHack, Ondemand by AIREV (UAE).  
 🌱 Stack: Go, Node.js, Python.  
-💬 Ask me about: Node.js, APIs, Go, ,Python ,AI Agents.  
+💬 Involvement: Node.js, APIs, Go, ,Python ,AI Agents.  
 
 
 ### 🌐 Socials:
