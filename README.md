@@ -42,6 +42,6 @@
 
 
 ### 👀 Visitor Count:
-![Visitors](https://img.shields.io/badge/dynamic/json?label=Visitors&query=value&url=https://api.countapi.xyz/hit/Damandeep1313/Damandeep1313&color=blue)
+![HitCount](https://hits.sh/github.com/Damandeep1313.svg?style=flat&label=Visitors&color=00b4ff)
 ### 🏆 GitHub Trophies:
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Damandeep1313&theme=onedark)
